@@ -1,3 +1,6 @@
 # HealthCare Data Engineering Apache Spark Project
 ## Architecture Diagram
-![ArchitectureDiagram](https://github.com/user-attachments/assets/fe2d19f9-0bd1-479b-a368-2cc9e499c0c6)
+![Apache Spark Architecture](https://github.com/user-attachments/assets/c947b49c-5b85-414b-8757-c79162bb11c9)
+
+
+
